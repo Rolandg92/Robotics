@@ -1,4 +1,4 @@
-2nd year Intro to Robotics in a team of 5 had three assignments.
+2nd year Intro to Robotics in a team of 5 had three assignments using ROBOTC.
 
 1st was to have a robot with a touch and color sensor run an certain route through an obstacle course.
 
